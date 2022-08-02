@@ -48,7 +48,8 @@ The Citadelle Laferrière is several miles inland from Cap-Haitien. We are using
 <param ve-map center="Q206194" zoom="11">
 
 A map based on latitude and longitude
-<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
+<param ve-map center="32.262084, 64.391554" zoom="2.5" stroke-width="0" show-labels>
+	<param ve-map-layer geojson url="/geojson/peony.json" title="Peony Distribution" active> 
 
 ## Video
 
