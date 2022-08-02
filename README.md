@@ -47,6 +47,9 @@ In this map, you can also see the island of <span data-click-image-zoomto="1496,
 The Citadelle Laferrière is several miles inland from Cap-Haitien. We are using the map information from Wikidata to create the map to right.
 <param ve-map center="Q206194" zoom="11">
 
+A map based on latitude and longitude
+<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
+
 ## Video
 
 You can also include Youtube videos by using the param ve-video code and the youtube video ID. This is a TED-Ed video called "The first and last king of Haiti," by Marlene Daut, created in 2019.
