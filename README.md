@@ -48,7 +48,7 @@ The Citadelle Laferrière is several miles inland from Cap-Haitien. We are using
 <param ve-map center="Q206194" zoom="11">
 
 Testing lat/long based map
-<param ve-map center="42.2813, -83.7483">
+<param ve-map center="42.2813, -83.7483" zoom="10">
 
 
 ## Video
