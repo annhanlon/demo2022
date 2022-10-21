@@ -68,8 +68,7 @@ This object from the Harvard University Digital Collections is a book with multi
 <param ve-image 
        manifest="https://iiif.lib.harvard.edu/manifests/drs:492788288" seq="5">
        
-
        
 # References
 
-[^1]: Image: National Aeronautics and Space Administration  (a U.S. federal government agency; [https://www.nasa.gov/](https://www.nasa.gov/)) European space agency [https://www.esa.int/](https://www.esa.int/), Canadian Space Agency [https://www.asc-csa.gc.ca/eng/](https://www.asc-csa.gc.ca/eng/)Space Telescope Science Institute (https://www.stsci.edu/, science operations center for the Hubble Space Telescope), Public domain, via Wikimedia Commons
+[^1]: Image: National Aeronautics and Space Administration  (a U.S. federal government agency; [https://www.nasa.gov/](https://www.nasa.gov/), Public domain, via [https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs,_Glittering_Landscape_of_Star_Birth.jpg](Wikimedia Commons)
