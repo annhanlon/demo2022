@@ -65,7 +65,7 @@ The South Orkney Islands are a group of islands in the South Atlantic Ocean. We 
 <param ve-map center="Q207383" zoom="11">
 
 Lat/long based map - using decimal-based lat/long for Buenos Aires in Argentina - north of the South Orkney Islands but nearby, relatively speaking.
-<param ve-map center="-35.581, -53.734" zoom="10">
+<param ve-map center="-34.368, -57.596" zoom="9">
 
 
 ## Video
