@@ -9,12 +9,16 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q206194"> <!-- Citadelle Laferrière -->
+<param ve-entity eid="Q186447"> <!-- James Webb Space Telescope -->
+<param ve-entity eid="Q50042"> <!-- Carina Nebula -->
+<param ve-entity eid="Q62706"> <!-- Johann Baptist Homann -->
+<param ve-entity eid="Q537520"> <!-- James E. Webb -->
+<param ve-entity eid="Q207383"> <!-- South Orkney Islands -->
 
 
 # Introduction
 
-This is a sample visual essay to demonstrate how to use Juncture to build visual essays. The banner image features one of NASA's images from the James Webb Space Telescope, showing the edge of the Carina Nebula [^1]. 
+This is a sample visual essay to demonstrate how to use Juncture to build visual essays. The banner image features one of NASA's images from the James Webb Space Telescope, showing the edge of the Carina Nebula [^1]. Here, the first image is a much earlier rendition of a more nearby celestial phenomenon, the movement of the planets. This is from the UWM Libraries American Geographical Society Library digital collection featuring the Atlas Novus Coelestis, from 1742. https://collections.lib.uwm.edu/digital/collection/celestial/id/81/rec/13
 <param ve-image 
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agsnorth/2574/manifest.json">
 
@@ -28,26 +32,31 @@ From the Smithsonian Institution collections - small boats in harbor at Port au 
 
 ## Image without zoom
 
-Carte de l'Isle Saint-Domingue..., 1730: Full size with no zoom or fit="contain" code.
+Globi Coelestis in Tabulis Tlanas Redacti Pars I: Full size with no zoom or fit="contain" code. https://collections.lib.uwm.edu/digital/collection/celestial/id/84/rec/22
 <param ve-image  
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
        
 ## Image with zoom
-Carte de l'Isle Saint-Domingue..., 1730: Zoomed in using image coordinates to focus on a particular part of the image (in this case, an image of a map).
+Globi Coelestis in Tabulis Tlanas Redacti Pars I0: Zoomed in using image coordinates to focus on a particular part of the image (in this case, an image of the "camelopardalus constellation).
 <param ve-image region="2135,1939,706,586"
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
        
 ## Image with zoom-to
-In this map, you can also see the island of <span data-click-image-zoomto="1496,1258,847,703">Inague</span>, to the east of Cuba. Further to the east is the western tip of <span data-click-image-zoomto="3145,1878,2107,1750">Puerto Rico</span>. 
+In this image, you can also see part of the constellation <span data-click-image-zoomto="1496,1258,847,703">Cygnus</span>. You can also zoom in closer to view details of the image for constellation <span data-click-image-zoomto="3145,1878,2107,1750">Cephus</span>. 
+<param ve-image  
+       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
+       
+## Map image
+You can use Juncture to great effect with images of maps. This is a nautical chart of South Orkney, dated 1847. It's very sparse, but you can zoom in to better view <span data-click-image-zoomto="1496,1258,847,703">Georgie du Sud and the Cape of Disappointement</span>. You can also veer south to better view <span data-click-image-zoomto="3145,1878,2107,1750">Coronation Island</span>. https://collections.lib.uwm.edu/digital/collection/agdm/id/21500/rec/4
 <param ve-image  
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
 
 ## Map
 
-The Citadelle Laferrière is several miles inland from Cap-Haitien. We are using the map information from Wikidata to create the map to right.
-<param ve-map center="Q206194" zoom="11">
+The South Orkney Islands are a group of islands in the South Atlantic Ocean. We are using the map information from Wikidata to create the map to right.
+<param ve-map center="Q207383" zoom="11">
 
-Lat/long based map - using decimal-based lat/long for Port-au-Prince
+Lat/long based map - using decimal-based lat/long for Coronation Island
 <param ve-map center="18.5425, -72.338611" zoom="10">
 
 
@@ -58,15 +67,10 @@ You can also include Youtube videos by using the param ve-video code and the you
 
 ## Finding IIIF resources
 
-This object is from the National Archives of Haiti, and is found in the Library of Congress's [World Digital Library](https://www.loc.gov/collections/world-digital-library/about-this-collection/) collection. *The Laws of the French Colony of Saint-Domingue.* Cap-Français: P. Roux, -07 to -08, 1801, [https://www.loc.gov/item/2021666967/](https://www.loc.gov/item/2021666967/).
+This image is a page from a fourteenth century copy of Al-Sufi's "Book of the Constellations of the Fixed Stars," held by the National Library of France, and featured in the Library of Congress's [World Digital Library](https://www.loc.gov/collections/world-digital-library/about-this-collection/) collection. [*Al-Sufi's "Book of the Constellations of the Fixed Stars," followed by Maxims, and al-Qazwini's "The Wonders of Creation".*](https://lccn.loc.gov/2021667391)
 <param ve-image 
-       manifest="https://www.loc.gov/item/2021666967/manifest.json">
+       manifest="https://www.loc.gov/item/2021667391/manifest.json)">
        
-## Multiple pages in a IIIF object
-
-This object from the Harvard University Digital Collections is a book with multiple pages. You can identify a specific page to focus on by using the "seq" tag after the manifest address. 
-<param ve-image 
-       manifest="https://iiif.lib.harvard.edu/manifests/drs:492788288" seq="5">
        
        
 # References
