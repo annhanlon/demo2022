@@ -64,14 +64,15 @@ You can use Juncture to great effect with images of maps. This is a nautical cha
 The South Orkney Islands are a group of islands in the South Atlantic Ocean. We are using the map information from Wikidata to create the map to right.
 <param ve-map center="Q207383" zoom="11">
 
-Lat/long based map - using decimal-based lat/long for Coronation Island
-<param ve-map center="18.5425, -72.338611" zoom="10">
+Lat/long based map - using decimal-based lat/long for Buenos Aires in Argentina - north of the South Orkney Islands but nearby, relatively speaking.
+<param ve-map center="-35.581, -53.734" zoom="10">
 
 
 ## Video
 
 You can also include Youtube videos by using the param ve-video code and the youtube video ID. This is a TED-Ed video called "The first and last king of Haiti," by Marlene Daut, created in 2019.
 <param ve-video id="q7lfSjjMNU8" title="The first and last kind of Haiti">
+
 
 ## Finding IIIF resources
 
