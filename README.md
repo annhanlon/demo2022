@@ -19,37 +19,41 @@
 # Introduction
 
 This is a sample visual essay to demonstrate how to use Juncture to build visual essays. The banner image features one of NASA's images from the James Webb Space Telescope, showing the edge of the Carina Nebula [^1]. Here, the first image is a much earlier rendition of a more nearby celestial phenomenon, the movement of the planets. This is from the UWM Libraries American Geographical Society Library digital collection featuring the Atlas Novus Coelestis, from 1742. https://collections.lib.uwm.edu/digital/collection/celestial/id/81/rec/13
-<param ve-image 
-       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agsnorth/2574/manifest.json">
-
-# Basic usage
-       
-## Port au Prince: IIIF image "to fit"
-
-From the Smithsonian Institution collections - small boats in harbor at Port au Prince, 1923-24. This image uses the fit=contain parameter to make sure the default view is the entire image. You can find the record here: [https://collections.si.edu/search/detail/edanmdm:siris_sic_13621](https://collections.si.edu/search/detail/edanmdm:siris_sic_13621)
 <param ve-image fit="contain"
-       manifest="https://ids.si.edu/ids/manifest/SIA-SIA2010-0721">
+       manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">
+
+# Basic image
+
+This geographical image of the earth's relationship to the sun and darkness is also from the Atlas Novus Coelestis. Unlike the above image, there are no additional instructions in the code to "fit" to the window or zoom in - this is the "basic" version.
+<param ve-image fit="contain"
+       manifest="https://collections.lib.uwm.edu/iiif/info/celestial/238/manifest.json">
+       
+## IIIF image "to fit"
+
+Here is the same image using the fit="contain" instructions. Simple but very useful. 
+<param ve-image fit="contain"
+       manifest="https://collections.lib.uwm.edu/iiif/info/celestial/238/manifest.json">
 
 ## Image without zoom
 
 Globi Coelestis in Tabulis Tlanas Redacti Pars I: Full size with no zoom or fit="contain" code. https://collections.lib.uwm.edu/digital/collection/celestial/id/84/rec/22
 <param ve-image  
-       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
+       manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">
        
 ## Image with zoom
 Globi Coelestis in Tabulis Tlanas Redacti Pars I0: Zoomed in using image coordinates to focus on a particular part of the image (in this case, an image of the "camelopardalus constellation).
 <param ve-image region="2135,1939,706,586"
-       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
+       manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">
        
 ## Image with zoom-to
 In this image, you can also see part of the constellation <span data-click-image-zoomto="1496,1258,847,703">Cygnus</span>. You can also zoom in closer to view details of the image for constellation <span data-click-image-zoomto="3145,1878,2107,1750">Cephus</span>. 
 <param ve-image  
-       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
+       manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">
        
 ## Map image
-You can use Juncture to great effect with images of maps. This is a nautical chart of South Orkney, dated 1847. It's very sparse, but you can zoom in to better view <span data-click-image-zoomto="1496,1258,847,703">Georgie du Sud and the Cape of Disappointement</span>. You can also veer south to better view <span data-click-image-zoomto="3145,1878,2107,1750">Coronation Island</span>. https://collections.lib.uwm.edu/digital/collection/agdm/id/21500/rec/4
+You can use Juncture to great effect with images of maps. This is a nautical chart of South Orkney, dated 1847. It's very sparse, but you can zoom in to better view <span data-click-image-zoomto="1496,1258,847,703">Georgie du Sud and the Cape of Disappointement</span>. You can also veer south to better view <span data-click-image-zoomto="3145,1878,2107,1750">Coronation Island</span>. 
 <param ve-image  
-       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
+       manifest="https://collections.lib.uwm.edu/iiif/info/agdm/21500/manifest.json">
 
 ## Map
 
