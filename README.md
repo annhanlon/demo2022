@@ -21,13 +21,6 @@
 This is a sample visual essay to demonstrate how to use Juncture to build visual essays. The banner image features one of NASA's images from the James Webb Space Telescope, showing the edge of the Carina Nebula [^1]. Here, the first image is a much earlier rendition of a more nearby celestial phenomenon, the movement of the planets. This is from the UWM Libraries American Geographical Society Library digital collection featuring the Atlas Novus Coelestis, from 1742. 
 <param ve-image fit="contain"
        manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">
-
-
-## Basic image
-
-This geographical image of the earth's relationship to the sun and darkness is also from the Atlas Novus Coelestis. Unlike the above image, there are no additional instructions in the code to "fit" to the window or zoom in - this is the "basic" version.
-<param ve-image fit="contain"
-       manifest="https://collections.lib.uwm.edu/iiif/info/celestial/238/manifest.json">
   
   
 ## IIIF image "to fit"
@@ -39,14 +32,14 @@ Here is the same image using the fit="contain" instructions. Simple but very use
 
 ## Image without zoom
 
-Globi Coelestis in Tabulis Tlanas Redacti Pars I: Full size with no zoom or fit="contain" code. https://collections.lib.uwm.edu/digital/collection/celestial/id/84/rec/22
+Globi Coelestis in Tabulis Tlanas Redacti Pars I: Full size with no zoom or fit="contain" code. 
 <param ve-image  
        manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">
   
   
 ## Image with zoom
-Globi Coelestis in Tabulis Tlanas Redacti Pars I0: Zoomed in using image coordinates to focus on a particular part of the image (in this case, an image of the "camelopardalus constellation).
-<param ve-image region="2135,1939,706,586"
+Globi Coelestis in Tabulis Tlanas Redacti Pars I0: Zoomed in using image coordinates to focus on a particular part of the image (in this case, an image of the "camelopardalus" constellation).
+<param ve-image region="2324,2293,1305,1083"
        manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">
      
      
