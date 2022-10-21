@@ -69,7 +69,7 @@ You can also include Youtube videos by using the param ve-video code and the you
 
 This image is a page from a fourteenth century copy of Al-Sufi's "Book of the Constellations of the Fixed Stars," held by the National Library of France, and featured in the Library of Congress's [World Digital Library](https://www.loc.gov/collections/world-digital-library/about-this-collection/) collection. [*Al-Sufi's "Book of the Constellations of the Fixed Stars," followed by Maxims, and al-Qazwini's "The Wonders of Creation".*](https://lccn.loc.gov/2021667391)
 <param ve-image 
-       manifest="https://www.loc.gov/item/2021667391/manifest.json)">
+       manifest="https://www.loc.gov/item/2021667391/manifest.json">
        
        
        
