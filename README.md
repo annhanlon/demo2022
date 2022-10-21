@@ -23,6 +23,7 @@ This is a sample visual essay to demonstrate how to use Juncture to build visual
        manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">
   
   
+  
 ## IIIF image "to fit"
 
 Here is the same image using the fit="contain" instructions. Simple but very useful. 
