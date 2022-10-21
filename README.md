@@ -22,7 +22,7 @@ This is a sample visual essay to demonstrate how to use Juncture to build visual
 <param ve-image fit="contain"
        manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">
 
-# Basic image
+## Basic image
 
 This geographical image of the earth's relationship to the sun and darkness is also from the Atlas Novus Coelestis. Unlike the above image, there are no additional instructions in the code to "fit" to the window or zoom in - this is the "basic" version.
 <param ve-image fit="contain"
