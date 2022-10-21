@@ -39,19 +39,22 @@ Globi Coelestis in Tabulis Tlanas Redacti Pars I: Full size with no zoom or fit=
   
   
 ## Image with zoom
+
 Globi Coelestis in Tabulis Tlanas Redacti Pars I0: Zoomed in using image coordinates to focus on a particular part of the image (in this case, an image of the "camelopardalus" constellation).
 <param ve-image region="2324,2293,1305,1083"
        manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">
      
      
 ## Image with zoom-to
-In this image, you can also see part of the constellation <span data-click-image-zoomto="1496,1258,847,703">Cygnus</span>. You can also zoom in closer to view details of the image for constellation <span data-click-image-zoomto="3145,1878,2107,1750">Cephus</span>. 
+
+In this image, you can also see part of the constellation <span data-click-image-zoomto="2952,644,1812,1504">Cygnus</span>. You can also zoom in closer to view details of the image for constellation <span data-click-image-zoomto="3089,1412,1258,1045">Cephus</span>. 
 <param ve-image  
        manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">
      
      
 ## Map image
-You can use Juncture to great effect with images of maps. This is a nautical chart of South Orkney, dated 1847. It's very sparse, but you can zoom in to better view <span data-click-image-zoomto="1496,1258,847,703">Georgie du Sud and the Cape of Disappointement</span>. You can also veer south to better view <span data-click-image-zoomto="3145,1878,2107,1750">Coronation Island</span>. 
+
+You can use Juncture to great effect with images of maps. This is a nautical chart of South Orkney, dated 1847. It's very sparse, but you can zoom in to better view <span data-click-image-zoomto="8121,1033,2023,1646">Georgie du Sud and the Cape of Disappointement</span>. You can also veer south to better view <span data-click-image-zoomto="4916,5733,2023,1646">Coronation Island</span>. 
 <param ve-image  
        manifest="https://collections.lib.uwm.edu/iiif/info/agdm/21500/manifest.json">
 
