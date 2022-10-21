@@ -71,4 +71,4 @@ This object from the Harvard University Digital Collections is a book with multi
        
 # References
 
-[^1]: Image: National Aeronautics and Space Administration  (a U.S. federal government agency; [https://www.nasa.gov/](https://www.nasa.gov/), Public domain, via [https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs,_Glittering_Landscape_of_Star_Birth.jpg](Wikimedia Commons)
+[^1]: Image: National Aeronautics and Space Administration  (a U.S. federal government agency; [https://www.nasa.gov/](https://www.nasa.gov/), Public domain, via [https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs_,__Glittering_Landscape_of_Star_Birth.jpg](Wikimedia Commons)
