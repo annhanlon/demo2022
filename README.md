@@ -14,7 +14,7 @@
 
 # Introduction
 
-This is a sample visual essay to demonstrate how to use Juncture for the CLACS 2022 Summer Workshop. The banner image features Haiti's Citadelle Laferrière, photographed from an airplane in 1920[^1]. The first image featured in this essay is also an image of Citadelle Laferrière, from 1935.
+This is a sample visual essay to demonstrate how to use Juncture to build visual essays. The banner image features one of NASA's images from the James Webb Space Telescope, showing the edge of the Carina Nebula [^1]. 
 <param ve-image 
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agsnorth/2574/manifest.json">
 
@@ -72,4 +72,4 @@ This object from the Harvard University Digital Collections is a book with multi
        
 # References
 
-[^1]: Citadelle Laferrière, Haiti, 1920, Archives Branch, USMC History Division, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re,_Haiti,_1920_-_49810176056.jpg)
+[^1]: Image: National Aeronautics and Space Administration  (a U.S. federal government agency; [https://www.nasa.gov/](https://www.nasa.gov/)) European space agency [https://www.esa.int/](https://www.esa.int/), Canadian Space Agency [https://www.asc-csa.gc.ca/eng/](https://www.asc-csa.gc.ca/eng/)Space Telescope Science Institute (https://www.stsci.edu/, science operations center for the Hubble Space Telescope), Public domain, via Wikimedia Commons
