@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="CLACS Summer 2022 Workshop"
+       title="DH Lab Fall 2022 Workshop"
        author="Ann Hanlon"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/f/f7/Citadelle_Laferri%C3%A8re%2C_Haiti%2C_1920_-_49810176056.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/4/44/NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs%2C_Glittering_Landscape_of_Star_Birth.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
