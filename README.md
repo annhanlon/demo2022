@@ -3,7 +3,7 @@
 <param ve-config 
        title="DH Lab Fall 2022 Workshop"
        author="Ann Hanlon"
-       banner="https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/2/2f/Hubble_ultra_deep_field.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
