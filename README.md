@@ -16,7 +16,7 @@
 <param ve-entity eid="Q207383"> <!-- South Orkney Islands -->
 
 
-This is a sample visual essay to demonstrate how to use Juncture to build visual essays. The banner image features one of NASA's images from the James Webb Space Telescope, showing the edge of the Carina Nebula [^1]. Here, the first image is a much earlier rendition of a more nearby celestial phenomenon, the movement of the planets. This is from the UWM Libraries American Geographical Society Library digital collection featuring the Atlas Novus Coelestis, from 1742. 
+This is a sample visual essay to demonstrate how to use Juncture to build visual essays. The banner image features one of NASA's images from the Hubble Telescope, showing a small region of space in the constellation Fornax [^1]. To the right, the first image in the essay is a much earlier rendition of a more nearby celestial phenomenon, the movement of the planets. This is from the UWM Libraries American Geographical Society Library digital collection featuring the Atlas Novus Coelestis, from 1742. 
 <param ve-image fit="contain"
        manifest="https://collections.lib.uwm.edu/iiif/info/celestial/84/manifest.json">  
   
@@ -72,4 +72,4 @@ This image is a page from a fourteenth century copy of Al-Sufi's "Book of the Co
   
 # References
 
-[^1]: Image: National Aeronautics and Space Administration  (a U.S. federal government agency; [https://www.nasa.gov/](https://www.nasa.gov/), Public domain, via [https://commons.wikimedia.org/wiki/Main_Page](Wikimedia Commons)
+[^1]: Image: NASA and the European Space Agency., Public domain, via Wikimedia Commons" [href="https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field.jpg](https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field.jpg)
