@@ -60,8 +60,8 @@ Lat/long based map - using decimal-based lat/long for Buenos Aires in Argentina 
 
 ## Video
 
-You can also include Youtube videos by using the param ve-video code and the youtube video ID. This is a TED-Ed video called "The first and last king of Haiti," by Marlene Daut, created in 2019.
-<param ve-video id="q7lfSjjMNU8" title="The first and last kind of Haiti">
+You can also include Youtube videos by using the param ve-video code and the youtube video ID. This is an official NASA video with highlights from the first images to be sent back from the James Webb Space Telescope, from July 2022.
+<param ve-video id="1C_zuHf6lP4" title="Highlights: First Images from the James Webb Space Telescope (Official NASA Video)">
 
 ## Finding IIIF resources
 
