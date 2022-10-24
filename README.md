@@ -3,7 +3,7 @@
 <param ve-config 
        title="DH Lab Fall 2022 Workshop"
        author="Ann Hanlon"
-       banner="https://upload.wikimedia.org/wikipedia/commons/4/44/NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs%2C_Glittering_Landscape_of_Star_Birth.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
